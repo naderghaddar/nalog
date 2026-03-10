@@ -1,0 +1,4 @@
+# Known bad IPs for testing denylist behavior
+10.0.0.4
+203.0.113.9
+185.100.10.10

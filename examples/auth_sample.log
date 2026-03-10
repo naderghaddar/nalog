@@ -1,0 +1,48 @@
+Mar  9 09:58:01 server sshd[1001]: Failed password for root from 10.0.0.4 port 51231 ssh2
+Mar  9 09:58:03 server sshd[1002]: Failed password for admin from 10.0.0.4 port 51234 ssh2
+Mar  9 09:58:05 server sshd[1003]: Failed password for invalid user oracle from 10.0.0.4 port 51239 ssh2
+Mar  9 09:58:08 server sshd[1004]: Failed password for test from 10.0.0.4 port 51242 ssh2
+Mar  9 09:58:11 server sshd[1005]: Failed password for root from 10.0.0.4 port 51247 ssh2
+Mar  9 09:58:13 server sshd[1006]: Failed password for ubuntu from 10.0.0.4 port 51251 ssh2
+Mar  9 09:58:15 server sshd[1007]: Failed password for ec2-user from 10.0.0.4 port 51258 ssh2
+Mar  9 09:58:17 server sshd[1008]: Failed password for guest from 10.0.0.4 port 51264 ssh2
+Mar  9 09:58:20 server sshd[1009]: Failed password for root from 10.0.0.4 port 51270 ssh2
+Mar  9 09:58:24 server sshd[1010]: Failed password for admin from 10.0.0.4 port 51274 ssh2
+Mar  9 09:58:28 server sshd[1011]: Failed password for invalid user deploy from 203.0.113.9 port 53000 ssh2
+Mar  9 09:58:31 server sshd[1012]: Failed password for invalid user ci from 203.0.113.9 port 53004 ssh2
+Mar  9 09:58:35 server sshd[1013]: Failed password for invalid user backup from 203.0.113.9 port 53008 ssh2
+Mar  9 09:58:38 server sshd[1014]: Failed password for invalid user monitor from 203.0.113.9 port 53012 ssh2
+Mar  9 09:58:43 server sshd[1015]: Failed password for invalid user grafana from 203.0.113.9 port 53016 ssh2
+Mar  9 09:58:46 server sshd[1016]: Failed password for invalid user postgres from 203.0.113.9 port 53021 ssh2
+Mar  9 09:58:49 server sshd[1017]: Failed password for root from 198.51.100.7 port 54000 ssh2
+Mar  9 09:58:52 server sshd[1018]: Failed password for root from 198.51.100.7 port 54002 ssh2
+Mar  9 09:58:55 server sshd[1019]: Failed password for root from 198.51.100.7 port 54004 ssh2
+Mar  9 09:59:00 server sshd[1020]: Accepted password for nader from 192.168.1.5 port 60122 ssh2
+Mar  9 09:59:03 server sshd[1021]: Accepted publickey for ubuntu from 192.168.1.7 port 60200 ssh2
+Mar  9 09:59:08 server sshd[1022]: Failed password for invalid user admin from 45.83.12.11 port 55001 ssh2
+Mar  9 09:59:12 server sshd[1023]: Failed password for invalid user support from 45.83.12.11 port 55004 ssh2
+Mar  9 09:59:15 server sshd[1024]: Failed password for invalid user app from 45.83.12.11 port 55006 ssh2
+Mar  9 09:59:19 server sshd[1025]: Failed password for invalid user web from 45.83.12.11 port 55010 ssh2
+Mar  9 09:59:22 server sshd[1026]: Failed password for invalid user api from 45.83.12.11 port 55012 ssh2
+Mar  9 09:59:26 server sshd[1027]: Failed password for invalid user db from 45.83.12.11 port 55016 ssh2
+Mar  9 09:59:30 server sshd[1028]: Failed password for invalid user logs from 45.83.12.11 port 55020 ssh2
+Mar  9 09:59:36 server sshd[1029]: Accepted password for root from 10.0.0.4 port 51290 ssh2
+Mar  9 09:59:42 server sshd[1030]: Failed password for root from 45.83.12.11 port 55025 ssh2
+Mar  9 09:59:46 server sshd[1031]: Failed password for root from 45.83.12.11 port 55028 ssh2
+Mar  9 09:59:50 server sshd[1032]: Failed password for root from 45.83.12.11 port 55032 ssh2
+Mar  9 09:59:55 server sshd[1033]: Accepted password for deploy from 172.16.1.20 port 60331 ssh2
+Mar  9 10:00:00 server sshd[1034]: Accepted publickey for ci from 172.16.1.21 port 60341 ssh2
+Mar  9 10:00:05 server sshd[1035]: Failed password for invalid user test from 203.0.113.44 port 52000 ssh2
+Mar  9 10:00:09 server sshd[1036]: Failed password for invalid user test from 203.0.113.44 port 52005 ssh2
+Mar  9 10:00:14 server sshd[1037]: Failed password for invalid user test from 203.0.113.44 port 52011 ssh2
+Mar  9 10:00:20 server sshd[1038]: Failed password for invalid user test from 203.0.113.44 port 52014 ssh2
+Mar  9 10:00:25 server sshd[1039]: Failed password for invalid user test from 203.0.113.44 port 52017 ssh2
+Mar  9 10:00:31 server sshd[1040]: Accepted password for service from 203.0.113.44 port 52020 ssh2
+Mar  9 10:00:36 server sshd[1041]: Failed password for root from 198.51.100.7 port 54008 ssh2
+Mar  9 10:00:40 server sshd[1042]: Accepted publickey for admin from 192.168.1.8 port 60400 ssh2
+Mar  9 10:00:44 server sshd[1043]: Failed password for invalid user nagios from 203.0.113.9 port 53025 ssh2
+Mar  9 10:00:48 server sshd[1044]: Accepted password for ubuntu from 203.0.113.9 port 53030 ssh2
+Mar  9 10:00:50 server CRON[3020]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  9 10:00:52 server sudo: pam_unix(sudo:session): session opened for user root by nader(uid=1000)
+Mar  9 10:00:55 server sshd[1045]: Connection closed by authenticating user root 10.0.0.4 port 51300 [preauth]
+Mar  9 10:00:58 server kernel: [  143.921220] audit: type=1105 audit(1709978458.123:17): pid=2041 uid=0

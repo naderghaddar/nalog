@@ -1,0 +1,6 @@
+not a syslog line at all
+Mar  9 13:00:01 host sshd[5001]: Failed password for root 10.0.0.4 port ssh2
+Mar  9 13:00:02 host sshd[5002]: Accepted password for from 10.0.0.4 port 22 ssh2
+Mar  9 13:00:03 host sshd[5003]: Failed password for root from 10.0.0.4 ssh2
+Mar  9 13:00:04 host sshd[5004]: Unknown auth event for user from 10.0.0.4 port 22 ssh2
+Mar  9 13:00:05 host sudo: pam_unix(sudo:session): session opened for user root by nader(uid=1000)

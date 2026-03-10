@@ -1,0 +1,5 @@
+# Trusted internal and management sources
+192.168.1.5
+192.168.1.7
+172.16.1.20
+172.16.1.21
